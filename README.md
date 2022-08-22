@@ -1,5 +1,5 @@
-Mi nombra es thoamas vargas.
+Mi nombre es thomas vargas.
 
 Tengo 20 años.
 
-Estudio desarrolo de Softwaren en la universidad.
+Estudio desarrollo de Software en la universidad.
